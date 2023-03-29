@@ -2,6 +2,6 @@
 #include<stdlib.h>
 int main()
 {
-	printf("hello world\n");
+	printf("hello x86\n");
 	return 0;
 }
